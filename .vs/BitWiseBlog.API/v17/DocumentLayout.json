@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:repositories\\implementation\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\repositories\\implementation\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:repositories\\implementation\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\repositories\\interface\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:repositories\\interface\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:repositories\\interface\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|d:\\bitwise_blog_8thsem\\api\\bitwiseblog.api\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A88EF3-D61B-4D8A-BD8D-56299CAD53F8}|BitWiseBlog.API.csproj|solutionrelative:controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\TokenRepository.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Implementation\\TokenRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\TokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:23:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Implementation\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementation\\ImageRepository.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Implementation\\ImageRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementation\\ImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:23:52.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Interface\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\IImageRepository.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Interface\\IImageRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:23:34.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interface\\ITokenRepository.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Repositories\\Interface\\ITokenRepository.cs",
+              "RelativeToolTip": "Repositories\\Interface\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:23:18.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ImagesController.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "Controllers\\ImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:02:06.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:02:01.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogPostsController.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "Controllers\\BlogPostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:02:00.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\BITWISE_BLOG_8THSEM\\API\\BitWiseBlog.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:01:58.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

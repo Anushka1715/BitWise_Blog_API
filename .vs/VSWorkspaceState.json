@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Models\\DTO",
+    "\\obj",
+    "\\Properties",
+    "\\Repositories",
+    "\\Repositories\\Implementation",
+    "\\Repositories\\Interface"
+  ],
+  "SelectedNode": "\\BitWiseBlog.API.sln",
+  "PreviewInSolutionExplorer": false
+}

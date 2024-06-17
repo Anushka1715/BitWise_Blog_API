@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BbF4JwiRVdeslBVx8Ymh9/DHeTBTTnBP3Xh3yxC9+Fg=",
+  "Source": "BitWiseBlog.API",
+  "BasePath": "_content/BitWiseBlog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
